@@ -1,0 +1,26 @@
+body{
+    /* background-color: rgb(53, 204, 103); */
+    background-image: linear-gradient(to right, rgb(150, 102, 189) , rgb(247, 159, 213));
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#icon{
+    float: right;
+}
+#add
+{
+   background-color: rgb(201, 3, 69);
+   padding: 3px;
+   border-radius: 2px;
+   border: 2px solid rgb(134, 0, 11);
+   color: rgb(255, 253, 108);
+}
+#clear{
+   background-color: rgb(201, 3, 69);
+   padding: 3px;
+   border-radius: 2px;
+   border: 2px solid rgb(134, 0, 11);
+   color: rgb(255, 253, 108);
+}
+#field{
+    border-color: brown;
+}
